@@ -2,7 +2,7 @@
 
 **Your Name** is a Japanese animated romantic fantasy movie directed by **Makoto Shinkai**. It was released in 2016.
 
-##The story follows two teenagers, **Taki Tachibana** and **Mitsuha Miyamizu**, who mysteriously switch bodies even though they live far away from each other.
+## The story follows two teenagers, **Taki Tachibana** and **Mitsuha Miyamizu**, who mysteriously switch bodies even though they live far away from each other.
 As they try to understand what is happening, they discover a special connection that goes beyond time and distance.
 
 ## Why I Love This Movie
